@@ -1,6 +1,7 @@
-:newspaper: A simple website of news using svelte
-
 ![svelte](/assets/svelte.gif)
+
+
+:newspaper: A simple website of news using svelte
 
 ## Project setup
 ```
